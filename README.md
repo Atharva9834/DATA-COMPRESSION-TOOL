@@ -37,3 +37,5 @@ GCC compiler: to compile the C code into an executable file. The compilation was
 Windows PowerShell or Command Prompt: to run the compiled program, allowing direct user interaction.
 
 #OUTPUT
+
+<img width="787" height="247" alt="Image" src="https://github.com/user-attachments/assets/c264cb0d-1eec-4418-bfad-b28020818b3d" />
